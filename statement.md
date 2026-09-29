@@ -50,7 +50,7 @@ If yes, it reads old data into a list. If not, the list starts empty: []
       Prints "Goodbye!" and uses break to stop the while True loop, ending the program.
     ## Where Your Data Is Stored
          Every expense is saved as one row in a file named expenses.csv, sitting in the same folder as the program. You can open this file directly in Excel or Notepad.
-    ## 6. How to Run This Program
+    ## 5. How to Run This Program
     * Save the file as simple_expense_tracker.py
     * No extra libraries needed — only Python's built-in csv and os modules are used.
     * Open a terminal in the same folder
