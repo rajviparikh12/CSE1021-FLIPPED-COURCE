@@ -12,7 +12,7 @@ All data is saved to a file called expenses.csv, so nothing is lost when you clo
 * Loops — to repeat the menu, and to go through the expense list
 * File handling — to save and load data using a CSV file.
 * if / elif / else — to decide what the menu option does.
-## How the Program Runs (Step by Step) :
+## 2.How the Program Runs (Step by Step) :
 * The program starts and calls load_expenses(). This checks if expenses.csv already exists.
 If yes, it reads old data into a list. If not, the list starts empty: []
 * A while True loop shows the menu again and again until you choose Exit.
